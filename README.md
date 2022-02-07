@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp</p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghyun421&show_icons=true&theme=tokyonight&locale=kr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghyun421&show_icons=true&theme=tokyonight&locale=kr&hide=stars)
