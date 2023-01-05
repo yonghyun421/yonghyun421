@@ -9,5 +9,3 @@
 <h3><b>✏️ About Me ✏️</b></h3>
 
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://421ee.notion.site/45342203c01e49f5a6d8d1faa29d2ed1) [![velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@4_21ee)
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghyun421&show_icons=true&theme=tokyonight&locale=kr&hide=stars)
