@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yonghyun%20Kim&fontSize=90&animation=twinkling)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyonghyun421%2Fhit-counter&count_bg=%230BE300&title_bg=%23555555&icon=apachespark.svg&icon_color=%23FFF500&title=hits&edge_flat=false)
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-</a>
+
  </p>
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 
