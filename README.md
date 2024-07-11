@@ -12,7 +12,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-squaree&logo=Notion&logoColor=white)](https://www.notion.so/421ee/3db99987a1254efab4a94494cf366a2b?pvs=4)
 [![velog](https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@4_21ee)
 
-**무신사** @Musinsa <sub><sup>운영플랫폼FE (2022.01 ~ now)</sup></sub>  
+**무신사** @Musinsa <sub><sup>운영플랫폼FE (2022.01 ~ 2024.06)</sup></sub>  
 
  <div>
   
