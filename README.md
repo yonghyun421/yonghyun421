@@ -16,6 +16,6 @@
 
  <div>
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=yonghyun421)
+  ![yonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghyun421&show_icons=true&theme=transparent)
 
 </div>
