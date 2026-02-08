@@ -32,13 +32,3 @@
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=yonghyun421&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=yonghyun421&theme=default&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=yonghyun421&theme=default&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
-</picture>
